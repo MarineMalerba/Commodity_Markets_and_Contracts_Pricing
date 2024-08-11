@@ -2,7 +2,7 @@
 This project provides tools for pricing both past and future commodity markets using linear regression, as well as estimating the price of commodity contracts based on various parameters.
 
 ## Commodity Market Pricing ##
-* Purpose: Analyzes historical data (Nat_Gas.csv) to predict commodity prices for both past and future dates, using linear regression.
+* Purpose: Analyzes historical data (__ Nat_Gas.csv __) to predict commodity prices for both past and future dates, using linear regression.
 * Input: A specific date.
 * Output: Estimated commodity price for the given date.
 
