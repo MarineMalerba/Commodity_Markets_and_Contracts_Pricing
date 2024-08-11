@@ -1,7 +1,3 @@
-###############################################
-# Pricing past and future commodities markets #
-###############################################
-
 import pandas as pd
 import matplotlib.pyplot as plt
 from datetime import datetime
