@@ -10,7 +10,7 @@ import numpy as np
 from pandas.tseries.offsets import DateOffset
 
 # Load the data from the uploaded CSV file into a DataFrame
-file_path = '' #insert path
+file_path = '' #insert path to 'Nat_Gas.csv'
 df = pd.read_csv(file_path)
 
 # Plot the data
