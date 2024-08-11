@@ -1,6 +1,7 @@
 ###############################################
 # Pricing past and future commodities markets #
 ###############################################
+
 import pandas as pd
 import matplotlib.pyplot as plt
 from datetime import datetime
@@ -9,7 +10,7 @@ import numpy as np
 from pandas.tseries.offsets import DateOffset
 
 # Load the data from the uploaded CSV file into a DataFrame
-file_path = '/Users/marinemalerba/Documents/CS/PYTHON/JPMorgan Chase & Co Quant Job Sim/Nat_Gas.csv'
+file_path = '' #insert path
 df = pd.read_csv(file_path)
 
 # Plot the data
